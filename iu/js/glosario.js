@@ -1,0 +1,32 @@
+$(document).ready(function(){
+	  $("#letraA").toggle();
+	  $("#letraB").toggle();
+	  $("#letraC").toggle();
+	  $("#letraF").toggle();
+	  $("#letraH").toggle();
+	  $("#letraM").toggle();
+	  $("#letraP").toggle();
+
+
+    $("#boton1").click(function(){
+        $("#letraA").toggle();
+    });
+    $("#boton2").click(function(){
+        $("#letraB").toggle();
+    });
+    $("#boton3").click(function(){
+        $("#letraC").toggle();
+    });
+    $("#boton4").click(function(){
+        $("#letraF").toggle();
+    });
+    $("#boton5").click(function(){
+        $("#letraH").toggle();
+    });
+    $("#boton6").click(function(){
+        $("#letraM").toggle();
+    });
+    $("#boton7").click(function(){
+        $("#letraP").toggle();
+    });
+});

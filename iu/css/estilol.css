@@ -1,0 +1,21 @@
+table, th, td {
+    border: 1px solid black;
+    padding: 5px;
+    font-family: verdana;
+    font-size: 12;
+}
+table {
+    border-spacing: 10px;
+}
+table p{
+	text-align: justify;
+	font-weight: normal;
+}
+table td{
+	
+	text-align: center;
+	font-weight: 900;
+}
+#hr{
+	background-color: black;
+}

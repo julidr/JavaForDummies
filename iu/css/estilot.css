@@ -1,0 +1,36 @@
+div#contedor{
+
+	display: inline;
+}
+
+div#tabla1{
+	border-style: solid;
+	margin-right: 60px;
+	float: left;
+}
+
+div#tabla2{
+	border-style: solid;
+	margin-right: 60px;
+	float: right;
+	float: left;
+}
+
+div#tabla3{
+	border-style: solid;
+	margin-right: 60px;
+ 	float: left;
+}
+
+div#tabla4{
+	border-style: solid;
+	float: left;
+	margin-right: 60px;
+}
+
+div#tabla5{
+	border-style: solid;
+	float: left;
+	margin-right: 60px;
+
+}
